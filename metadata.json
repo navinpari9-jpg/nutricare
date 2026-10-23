@@ -1,0 +1,7 @@
+{
+  "name": "NutriCare AI — Personalized Nutrition & Health Report Assistant",
+  "description": "Understand your reports. Make informed food choices. Personalized nutrition education and medical report organization assistant for diabetes, cholesterol, and hypertension management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
